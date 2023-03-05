@@ -1,0 +1,6 @@
+spring:
+  local:
+    properties: localproperties
+
+  profiles:
+    active: dev,test

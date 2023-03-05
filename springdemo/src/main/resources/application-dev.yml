@@ -1,0 +1,4 @@
+spring:
+  local:
+    properties: devproperties
+    devprop: welcome to dev
